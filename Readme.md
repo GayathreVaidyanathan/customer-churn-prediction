@@ -85,7 +85,7 @@ streamlit run app.py
 
 This app is deployed on **Streamlit Community Cloud**.
 
-👉 **[Open App](https://your-app-url.streamlit.app)** *(replace with your actual URL)*
+
 
 ---
 
