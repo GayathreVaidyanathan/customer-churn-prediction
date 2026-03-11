@@ -6,5 +6,4 @@ __pycache__/
 .env
 .DS_Store
 desktop.ini
-model/all_models.pkl
 "@ | Out-File -Encoding utf8 .gitignore
