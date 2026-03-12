@@ -2,6 +2,7 @@
 
 A complete end-to-end machine learning project to predict customer churn for a telecom company, with an interactive web app built using Streamlit.
 
+🔗 **[Live Demo →](https://customer-churn-prediction-dt5z6zzhrsf2kjs3ccqgjh.streamlit.app/)** *(replace with your actual Streamlit Cloud URL)*
 
 ---
 
@@ -84,7 +85,7 @@ streamlit run app.py
 
 This app is deployed on **Streamlit Community Cloud**.
 
-
+👉 **[Open App](https://your-app-url.streamlit.app)** *(replace with your actual URL)*
 
 ---
 
@@ -120,5 +121,6 @@ The Kaggle notebook (`notebook.ipynb`) covers:
 ## 🙋 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/GayathreVaidyanathan)
-- Kaggle: [your-kaggle](https://kaggle.com/GayathreVaidya)
+- GitHub: [@GayathreVaidyanathan](https://github.com/GayathreVaidyanathan)
+[Gayathre Vaidyanathan](https://www.linkedin.com/in/gayathre-vaidyanathan-567b4a30a/)
+- Kaggle: [Gayathre Vaidya](https://kaggle.com/GayathreVaidya)
