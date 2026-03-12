@@ -2,7 +2,7 @@
 
 A complete end-to-end machine learning project to predict customer churn for a telecom company, with an interactive web app built using Streamlit.
 
-🔗 **[Live Demo →](https://customer-churn-prediction-dt5z6zzhrsf2kjs3ccqgjh.streamlit.app/)** *(replace with your actual Streamlit Cloud URL)*
+🔗 **[Live Demo →](https://customer-churn-prediction-dt5z6zzhrsf2kjs3ccqgjh.streamlit.app/)** 
 
 ---
 
